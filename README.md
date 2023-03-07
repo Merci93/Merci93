@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Ugochukwu Asogwa.
 - 🌱 A Data Analyst and Power Electronics Engineer.
-- 💞️ I’m looking to collaborate on works on Data Science, Engineering and Machine Learning 
+- 💞️ I’m looking to collaborate on works on Data Analytics, and Data Engineering 
 - 📫 Email at: asogwadavidu@gmail.com or LinkedIn @ David Ugochukwu Asogwa
 
 <!---

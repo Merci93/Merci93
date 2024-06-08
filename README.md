@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
  <a href="https://merci93.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Portfolio"/>
   </a>
 </center>
 

@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [David!](https://github.com/merci93)
+## Hey there 👋, I'm [Ugochukwu!](https://github.com/merci93)
 
 <center>
 <a href="https://www.linkedin.com/in/david-asogwa" target="_blank">

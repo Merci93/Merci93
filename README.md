@@ -42,7 +42,7 @@
 ![](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=beautiful-soup&logoColor=white)
 ![](https://img.shields.io/badge/Jira-F2C811?style=flat&logo=jira&logoColor=white)
 ![](https://img.shields.io/badge/Confluence-3776AB?style=flat&logo=confluence&logoColor=white)
-![](https://img.shields.io/badge/Httpx-017CEE?style=flat&logo=httpx&logoColor=white)
+![](https://img.shields.io/badge/httpx-017CEE?style=flat&logo=httpx&logoColor=white)
 ![](https://img.shields.io/badge/Requests-4285F4?style=flat&logo=requests&logoColor=white)
 <!-- ![](https://img.shields.io/badge/dbt-FF6F61?style=flat&logo=dbt&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) -->

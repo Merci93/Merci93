@@ -35,14 +35,15 @@
 ![](https://img.shields.io/badge/ETL-231F20?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Data_Modeling-FF6F61?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Lucid_Chart-009688?style=flat&logo=lucid-chart&logoColor=white)
-![](https://img.shields.io/badge/Pentaho_Data_Integration-009688?style=flat&logo=pentaho-data-integration&logoColor=white)
+![](https://img.shields.io/badge/Pentaho_Data_Integration-4479A1?style=flat&logo=pentaho-data-integration&logoColor=white)
 ![](https://img.shields.io/badge/PyTest-2496ED?style=flat&logo=pytest&logoColor=white)
 ![](https://img.shields.io/badge/Web_Scraping-FF6F61?style=flat&logo=web-scraping&logoColor=white)
 ![](https://img.shields.io/badge/Selenium-CC2927?style=flat&logo=selenium&logoColor=white)
 ![](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=beautiful-soup&logoColor=white)
 ![](https://img.shields.io/badge/Jira-F2C811?style=flat&logo=jira&logoColor=white)
 ![](https://img.shields.io/badge/Confluence-3776AB?style=flat&logo=confluence&logoColor=white)
-<!-- ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) -->
+![](https://img.shields.io/badge/Httpx-017CEE?style=flat&logo=httpx&logoColor=white)
+![](https://img.shields.io/badge/Requests-4285F4?style=flat&logo=requests&logoColor=white)
 <!-- ![](https://img.shields.io/badge/dbt-FF6F61?style=flat&logo=dbt&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white) -->

@@ -37,6 +37,9 @@
 ![](https://img.shields.io/badge/Lucid_Chart-009688?style=flat&logo=lucidchart&logoColor=white)
 ![](https://img.shields.io/badge/Pentaho_Data_Integration-009688?style=flat&logo=pdi&logoColor=white)
 ![](https://img.shields.io/badge/PyTest-FF6F61?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Web_Scraping-FF6F61?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Selenium-FF6F61?style=flat&logo=selenium&logoColor=white)
+![](https://img.shields.io/badge/BeautifulSoup-FF6F61?style=flat&logo=bs4&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/dbt-FF6F61?style=flat&logo=dbt&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) -->

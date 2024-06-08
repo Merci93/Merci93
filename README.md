@@ -30,16 +30,18 @@
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Spark-47A248?style=flat&logo=apache-spark&logoColor=white)
 ![](https://img.shields.io/badge/Databricks-336791?style=flat&logo=databricks&logoColor=white)
-![](https://img.shields.io/badge/Azure-FF3621?style=flat&logo=azure&logoColor=white)
+![](https://img.shields.io/badge/Azure-FF3621?style=flat&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/ETL-231F20?style=flat&logoColor=white)
 ![](https://img.shields.io/badge/Data_Modeling-FF6F61?style=flat&logoColor=white)
-![](https://img.shields.io/badge/Lucid_Chart-009688?style=flat&logo=lucidchart&logoColor=white)
-![](https://img.shields.io/badge/Pentaho_Data_Integration-009688?style=flat&logo=pdi&logoColor=white)
+![](https://img.shields.io/badge/Lucid_Chart-009688?style=flat&logo=lucid-chart&logoColor=white)
+![](https://img.shields.io/badge/Pentaho_Data_Integration-009688?style=flat&logo=pentaho-data-integration&logoColor=white)
 ![](https://img.shields.io/badge/PyTest-2496ED?style=flat&logo=pytest&logoColor=white)
-![](https://img.shields.io/badge/Web_Scraping-FF6F61?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Web_Scraping-FF6F61?style=flat&logo=web-scraping&logoColor=white)
 ![](https://img.shields.io/badge/Selenium-CC2927?style=flat&logo=selenium&logoColor=white)
 ![](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=beautifulsoup&logoColor=white)
+![](https://img.shields.io/badge/Jira-F2C811?style=flat&logo=jira&logoColor=white)
+![](https://img.shields.io/badge/Confluence-3776AB?style=flat&logo=confluence&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/dbt-FF6F61?style=flat&logo=dbt&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) -->

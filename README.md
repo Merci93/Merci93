@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/Confluence-3776AB?style=flat&logo=confluence&logoColor=white)
 ![](https://img.shields.io/badge/httpx-017CEE?style=flat&logo=httpx&logoColor=white)
 ![](https://img.shields.io/badge/Requests-4285F4?style=flat&logo=requests&logoColor=white)
-![](https://img.shields.io/badge/Gradio-FF6F61?style=flat&logo=gradio&logoColor=white)
+![](https://img.shields.io/badge/Gradio-FF6F61?style=flat&logo=gradio-ui&logoColor=white)
 ![](https://img.shields.io/badge/Streamlit-29B5E8?style=flat&logo=streamlit&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white) -->

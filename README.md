@@ -46,6 +46,7 @@
 ![](https://img.shields.io/badge/Requests-4285F4?style=flat&logo=requests&logoColor=white)
 ![](https://img.shields.io/badge/Gradio-FF6F61?style=flat&logo=gradio-ui&logoColor=white)
 ![](https://img.shields.io/badge/Streamlit-29B5E8?style=flat&logo=streamlit&logoColor=white)
+![Static Badge](https://img.shields.io/badge/gradio-ui)
 <!-- ![](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) -->

@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [David!]
+## Hey there 👋, I'm [David!](https://github.com/merci93)
 
 <center>
 <a href="https://www.linkedin.com/in/david-asogwa" target="_blank">
@@ -33,6 +33,10 @@
 ![](https://img.shields.io/badge/Azure-FF3621?style=flat&logo=azure&logoColor=white)
 ![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![](https://img.shields.io/badge/ETL-FF6F61?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Data_Modeling-FF6F61?style=flat&logoColor=white)
+![](https://img.shields.io/badge/Lucid_Chart-009688?style=flat&logo=lucidchart&logoColor=white)
+![](https://img.shields.io/badge/Pentaho_Data_Integration-009688?style=flat&logo=pdi&logoColor=white)
+![](https://img.shields.io/badge/PyTest-FF6F61?style=flat&logoColor=white)
 <!-- ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/dbt-FF6F61?style=flat&logo=dbt&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white) -->

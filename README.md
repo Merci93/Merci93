@@ -9,8 +9,10 @@
   </a>
 </center>
 
+
 ## 👨🏻‍🎓 Academic Experience:
   - **Master of Science**: Embedded Robotics at [Wroclaw University of Science and Technology](https://rekrutacja.pwr.edu.pl/en/admission/)
+
 
 <section id="one">
   <header class="major">
@@ -22,7 +24,6 @@
     <a href="https://www.datacamp.com/certificate/DA0026918287085" class="css-1jb9cd5-CertificateImage"><img alt="David Ugochukwu Asogwa's Data Analyst Professional certificate" src="https://res.cloudinary.com/dyd911kmh/image/upload/v1659085702/Certification/Badges%202022/data-analyst-professional-badge.svg"></a>
   </header>
 </section>
-
 
 
 ## 💼 Technical Skills

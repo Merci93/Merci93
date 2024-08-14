@@ -17,7 +17,7 @@
 <section id="one">
   <header class="major">
     <h2>Professional Certifications</h2>
-    <a href="https://www.credly.com/badges/7defdfd5-e39d-4c3f-bf50-e4e3ee8e0558/public_url"><img alt="Microsoft Certified: Azure Data Fundamentals" src="https://images.credly.com/size/180x180/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
+    <a href="https://www.credly.com/badges/08133206-a95e-4fda-8084-139c88d23ee3/public_url"><img alt="Microsoft Certified: Azure Data Fundamentals" src="https://images.credly.com/size/180x180/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
     <a href="https://www.credly.com/badges/7defdfd5-e39d-4c3f-bf50-e4e3ee8e0558/public_url"><img alt="Microsoft Certified: Azure Data Fundamentals" src="https://images.credly.com/size/180x180/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"></a>
     <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110977048"><img alt="Certification Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110977048"></a>
     <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110557178"><img alt="Certification Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110557178"></a>

@@ -16,7 +16,7 @@
   <header class="major">
     <h2>Professional Certifications</h2>
     <a href="https://www.credly.com/badges/08133206-a95e-4fda-8084-139c88d23ee3"><img alt="Certification Badge" src="https://images.credly.com/path_to_your_badge_image.png"></a>
-    <a href="https://www.credly.com/badges/08133206-a95e-4fda-8084-139c88d23ee3"><img alt="Certification Badge" src="https://www.credly.com/badges/08133206-a95e-4fda-8084-139c88d23ee3"></a>
+    <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110977048"><img alt="Certification Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110977048"></a>
     <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110557178"><img alt="Certification Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110557178"></a>
     <div data-iframe-width="140" data-iframe-height="240" data-share-badge-id="7defdfd5-e39d-4c3f-bf50-e4e3ee8e0558" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     <a href="https://www.datacamp.com/certificate/DA0026918287085" class="css-1jb9cd5-CertificateImage"><img alt="David Ugochukwu Asogwa's Data Analyst Professional certificate" src="https://res.cloudinary.com/dyd911kmh/image/upload/v1659085702/Certification/Badges%202022/data-analyst-professional-badge.svg"></a>

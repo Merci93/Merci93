@@ -15,15 +15,11 @@
 <section id="one">
   <header class="major">
     <h2>Professional Certifications</h2>
-    <div data-iframe-width="140" data-iframe-height="240" data-share-badge-id="08133206-a95e-4fda-8084-139c88d23ee3" data-share-badge-host="https://www.credly.com"></div>
-    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-    <div data-iframe-width="140" data-iframe-height="240" data-share-badge-id="7defdfd5-e39d-4c3f-bf50-e4e3ee8e0558" data-share-badge-host="https://www.credly.com"></div>
-    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7defdfd5-e39d-4c3f-bf50-e4e3ee8e0558" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <div data-iframe-width="140" data-iframe-height="240" data-share-badge-id="08133206-a95e-4fda-8084-139c88d23ee3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+    <div data-iframe-width="140" data-iframe-height="240" data-share-badge-id="7defdfd5-e39d-4c3f-bf50-e4e3ee8e0558" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
     <a href="https://www.datacamp.com/certificate/DA0026918287085" class="css-1jb9cd5-CertificateImage"><img alt="David Ugochukwu Asogwa's Data Analyst Professional certificate" src="https://res.cloudinary.com/dyd911kmh/image/upload/v1659085702/Certification/Badges%202022/data-analyst-professional-badge.svg"></a>
   </header>
-  <!-- <ul class="actions">
-    <li><a href="#" class="button">Learn More</a></li>
-  </ul> -->
 </section>
 
 

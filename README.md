@@ -15,7 +15,7 @@
 <section id="one">
   <header class="major">
     <h2>Professional Certifications</h2>
-    <a href="https://www.credly.com/badges/7defdfd5-e39d-4c3f-bf50-e4e3ee8e0558/public_url"><img alt="/img/microsoft-certified-azure-data-fundamentals.png" src="https://www.credly.com/badges/7defdfd5-e39d-4c3f-bf50-e4e3ee8e0558/public_url"></a>
+    <a href="https://www.credly.com/badges/7defdfd5-e39d-4c3f-bf50-e4e3ee8e0558/public_url"><img alt="Microsoft Certified: Azure Data Fundamentals" src="https://images.credly.com/size/340x340/images/7defdfd5-e39d-4c3f-bf50-e4e3ee8e0558/microsoft-certified-azure-data-fundamentals.png"></a>
     <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110977048"><img alt="Certification Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110977048"></a>
     <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110557178"><img alt="Certification Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/110557178"></a>
     <a href="https://www.datacamp.com/certificate/DA0026918287085" class="css-1jb9cd5-CertificateImage"><img alt="David Ugochukwu Asogwa's Data Analyst Professional certificate" src="https://res.cloudinary.com/dyd911kmh/image/upload/v1659085702/Certification/Badges%202022/data-analyst-professional-badge.svg"></a>

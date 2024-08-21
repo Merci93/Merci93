@@ -17,7 +17,7 @@
 <section id="one">
   <header class="major">
     <h2>Professional Certifications</h2>
-    <a href="https://www.credly.com/badges/ace5030c-0604-41cf-86f5-7956abd4a883/public_url"><img alt="Astronomer Certification for Apache Airflow Fundamentals" src="https://images.credly.com/size/180x180/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
+    <a href="https://www.credly.com/badges/ace5030c-0604-41cf-86f5-7956abd4a883/public_url"><img alt="Astronomer Certification for Apache Airflow Fundamentals" src="https://images.credly.com/size/180x180/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png"></a>
     <a href="https://www.credly.com/badges/08133206-a95e-4fda-8084-139c88d23ee3/public_url"><img alt="Microsoft Certified: Azure Data Fundamentals" src="https://images.credly.com/size/180x180/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></a>
     <a href="https://www.credly.com/badges/7defdfd5-e39d-4c3f-bf50-e4e3ee8e0558/public_url"><img alt="Microsoft Certified: Azure Data Fundamentals" src="https://images.credly.com/size/180x180/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"></a>
     <a href="https://www.datacamp.com/certificate/DA0026918287085" class="css-1jb9cd5-CertificateImage"><img alt="David Ugochukwu Asogwa's Data Analyst Professional certificate" src="https://res.cloudinary.com/dyd911kmh/image/upload/v1659085702/Certification/Badges%202022/data-analyst-professional-badge.svg"></a>

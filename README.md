@@ -22,15 +22,11 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/snowflake-F2C811?style=flat&logo=snowflake&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-<!-- ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) -->
 ![](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![](https://img.shields.io/badge/GCP-CC2927?style=flat&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-<!-- ![](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white) -->
 ![](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
-<!-- ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=white) -->
 ![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -38,9 +34,6 @@
 ![](https://img.shields.io/badge/Databricks-336791?style=flat&logo=databricks&logoColor=white)
 ![](https://img.shields.io/badge/Azure-FF3621?style=flat&logo=microsoft-azure&logoColor=white)
 ![](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-<!-- ![](https://img.shields.io/badge/ETL-231F20?style=flat&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/Data_Modeling-FF6F61?style=flat&logoColor=white) -->
-<!-- ![](https://img.shields.io/badge/Lucid_Chart-009688?style=flat&logo=lucid-chart&logoColor=white) -->
 ![](https://img.shields.io/badge/Pentaho_Data_Integration-4479A1?style=flat&logo=pentaho-data-integration&logoColor=white)
 ![](https://img.shields.io/badge/httpx-017CEE?style=flat&logo=httpx&logoColor=white)
 ![](https://img.shields.io/badge/PyTest-2496ED?style=flat&logo=pytest&logoColor=white)
@@ -49,9 +42,16 @@
 ![](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=beautiful-soup&logoColor=white)
 ![](https://img.shields.io/badge/Jira-F2C811?style=flat&logo=jira&logoColor=white)
 ![](https://img.shields.io/badge/Confluence-3776AB?style=flat&logo=confluence&logoColor=white)
-<!-- ![](https://img.shields.io/badge/Requests-4285F4?style=flat&logo=requests&logoColor=white) -->
 ![](https://img.shields.io/badge/Gradio-FF6F61?style=flat&logo=gradio-ui&logoColor=white)
 ![](https://img.shields.io/badge/Streamlit-29B5E8?style=flat&logo=streamlit&logoColor=white)
+<!-- ![](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/ETL-231F20?style=flat&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/Data_Modeling-FF6F61?style=flat&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/Lucid_Chart-009688?style=flat&logo=lucid-chart&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/Requests-4285F4?style=flat&logo=requests&logoColor=white) -->
+<!-- ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/GraphQL-E434AA?style=flat&logo=graphql&logoColor=white) -->
 <!-- ![](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) -->

@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Ugochukwu!](https://github.com/merci93)
+## Hey there 👋, I'm [David!](https://github.com/merci93)
 
 
 <section id="one">
